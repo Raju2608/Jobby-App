@@ -1,7 +1,7 @@
 import {Link, withRouter} from 'react-router-dom'
 
 import Cookies from 'js-cookie'
-import IoMdClose from 'react-icons/io'
+import {IoMdClose} from 'react-icons/io'
 import {FiLogOut} from 'react-icons/fi'
 import {AiFillHome} from 'react-icons/ai'
 import {BsFillBriefcaseFill} from 'react-icons/bs'
