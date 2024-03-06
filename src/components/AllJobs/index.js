@@ -2,7 +2,7 @@ import {Component} from 'react'
 import Loader from 'react-loader-spinner'
 import Cookies from 'js-cookie'
 import {AiOutlineSearch} from 'react-icons/ai'
-import IoMdClose from 'react-icons/io'
+import {IoMdClose} from 'react-icons/io'
 // eslint-disable-next-line import/extensions
 import Header from '../Header'
 // eslint-disable-next-line import/no-unresolved
