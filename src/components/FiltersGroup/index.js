@@ -1,5 +1,5 @@
 import {BsSearch} from 'react-icons/bs'
-import IoMdClose from 'react-icons/io'
+import {IoMdClose} from 'react-icons/io'
 
 // eslint-disable-next-line import/extensions
 import ProfileDetails from '../ProfileDetails'
